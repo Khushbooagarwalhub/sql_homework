@@ -1,4 +1,5 @@
 # EMPLOYEE DATABASE : A MYSTERY IN TWO PARTS
+# TECHNICAL REPORT
 
 ## Data Modeling
 ERD file has been created to show relationship between the six tables.The relationships are one to one, one to many,many to one and many to many.
