@@ -115,7 +115,7 @@ SELECT * FROM dept_manager;
 The query of the data has been done by joining diffeent tables.The code has been saved in the file 'Data_Analysis.sql'
 
 
-##### Data Visulaisation
+##### Data Visualisation
 The final step involves the visualisation of the data .The graph has been plotted here.
 
 ![](images/bargraph.png)
